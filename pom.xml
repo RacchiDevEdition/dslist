@@ -8,19 +8,11 @@
 		<version>3.0.6</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-<<<<<<< HEAD
 	<groupId>com.devsuperior</groupId>
 	<artifactId>dslist</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>dslist</name>
 	<description>Intensivão Java Spring</description>
-=======
-	<groupId>com.racchigameplays</groupId>
-	<artifactId>dslist</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
-	<name>dslist</name>
-	<description>Intensivão Java Spring - Primeiro projeto</description>
->>>>>>> 7d0fd3c9845bbbc2fc2321b66445ef92318ae18b
 	<properties>
 		<java.version>17</java.version>
 	</properties>
@@ -54,15 +46,12 @@
 	<build>
 		<plugins>
 			<plugin>
-<<<<<<< HEAD
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-resources-plugin</artifactId>
 				<version>3.1.0</version> <!--$NO-MVN-MAN-VER$ -->
 			</plugin>
 			
 			<plugin>
-=======
->>>>>>> 7d0fd3c9845bbbc2fc2321b66445ef92318ae18b
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
